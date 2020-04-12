@@ -1,0 +1,12 @@
+{
+    "syncModule": "BdSyncer",
+    "authModule": "GztzsbAuth",
+    "ouModule": "YeOuManage",
+    "hideThirdLogin": false,
+    "hideLogin": false,
+    "syncInterval": 1200,
+    "authServer": "http://172.17.107.83/sso?src=pc",
+    "autoCasRedirect": false,
+    "matchUrl": "http://172.17.107.83/sso",
+    "pcClientAuthMethod": 2
+}
